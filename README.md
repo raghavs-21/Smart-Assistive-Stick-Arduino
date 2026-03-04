@@ -46,7 +46,7 @@ The system is built using low-cost components such as Arduino and HC-SR04 sensor
 4. The user receives immediate alerts and can adjust direction accordingly.
 
 ## Circuit Diagram:
-
+![plot](/Circuit_Diagram.png)
 ## Note
 This was done collaboratively as a Group Project as part of the course - Engineering Design (B.Tech Year 1)
 
